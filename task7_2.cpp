@@ -1,3 +1,6 @@
+
+// Q.2: Write a program to find GCD of any array having more than two elements. //
+
 #include<iostream>
 using namespace std;
 int gcd(int a, int b) {
